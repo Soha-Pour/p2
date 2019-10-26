@@ -5,3 +5,27 @@ h1 {
 .description {
   font-style: italic;
 }
+
+.quote {
+  font-weight: bold;
+}
+
+.main-content {
+  font-size: 15px;
+}
+
+.column {
+  width: 415px;
+  float: left;
+}
+
+.border-quotes {
+  margin: 20px;
+  border: 4px solid green;
+  padding: 1px;
+  background-color: pink;
+}
+
+.title {
+  text-decoration: underline;
+}
