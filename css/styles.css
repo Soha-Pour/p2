@@ -7,8 +7,16 @@ h1 {
   font-style: italic;
 }
 
+body {
+  color: gray;
+}
+
 .quote {
-  font-weight: bold;
+  color: black;
+}
+
+.border-quotes ul {
+  color: white;
 }
 
 .main-content {
@@ -29,4 +37,12 @@ h1 {
 
 .title {
   text-decoration: underline;
+}
+
+.column p {
+  font-family: cursive;
+}
+
+.introduction {
+  text-align: center;
 }
